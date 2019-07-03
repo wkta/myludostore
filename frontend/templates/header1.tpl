@@ -15,7 +15,7 @@
 		</a>
 		&nbsp;&nbsp;&nbsp;
 		
-		<a href="https://games.gaudia-tech.com/etendu/index.php" target="_blank"><img height="48" src="img/moregp_icon.png"/>Manage your gold(GP)</a>&nbsp;&nbsp;&nbsp;
+		<a href="{$managegp_url}" target="_blank"><img height="48" src="img/moregp_icon.png"/>Manage your gold(GP)</a>&nbsp;&nbsp;&nbsp;
 		<a href="{$logout_url}"><img height="42" src="img/logout_icon.png" />Logout</a>
 		</div>	
 			

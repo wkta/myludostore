@@ -2,17 +2,6 @@
 
 <body itemscope="" itemtype="http://schema.org/WebPage">
 
-<!-- 
-include 'store_header.php';
-
-pr connaitre calculer la somme des bets, par défi
-
-//require_once '../sc/ludo_app/tournois.php';
-// pour pouvoir combo: det_chall_courant($game_id) + det_montant_pot($cid) ;
-
-// PB: marche pas comme ça a cause de doublon accès Bddmanager...  pour linstant, à défaut de mieux on utilisera un appel http avec file_get_contents
--->
-
 
 <main id="content" class="content_inicio">
 
